@@ -5,4 +5,4 @@ A simple script to superpose all opened structures to a reference structure in [
 ## Usage
 
 1. Calculate -> Run Script (Open Superpose.py)
-2. Superpose -> Choose Reference Structure -> Superpose
+2. Superpose -> Choose Reference Structure -> Start Superpose
