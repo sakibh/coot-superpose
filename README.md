@@ -1,6 +1,6 @@
 # Coot Superpose
 
-A simple script to superpose all opened structures to a reference structure in [Coot](https://www2.mrc-lmb.cam.ac.uk/personal/pemsley/coot/) automatically.
+A simple Python script to superpose all opened structures to a reference structure in [Coot](https://www2.mrc-lmb.cam.ac.uk/personal/pemsley/coot/) automatically.
 
 ## Usage
 
